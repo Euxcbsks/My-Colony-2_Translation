@@ -1,0 +1,19 @@
+﻿
+"zh": {
+            "app_name": "我的殖民地2",
+            "build": "建造",
+            "more_options": "更多設定",
+            "game_editor": "遊戲編輯器",
+            "settings": "設定",
+            "biomes": "生態域",
+            "worlds": "世界",
+            "resources": "資源",
+            "structures": "建築物",
+            "quit_editor": "退出編輯器",
+            "please_wait": "請耐心等待……",
+            "play_game": "開始遊戲",
+            "new_biome": "新生態域",
+            "new_world": "新世界",
+            "name": "名稱",
+            "description": "說明"
+        }
